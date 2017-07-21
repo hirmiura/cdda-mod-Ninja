@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": "ninja_shuriken_smg",
     "type": "GUN",
     "name": "Shuriken thrower (smg)",
@@ -9,7 +8,7 @@
     "price": 110000,
     "to_hit": -1,
     "bashing": 12,
-    "material": [ "steel", "plastic" ],
+    "material": ["steel", "plastic"],
     "symbol": "(",
     "color": "dark_gray",
     "ammo": "ammo_type_ninja_shuriken",
@@ -25,8 +24,8 @@
     "clip_size": 50,
     "reload": 250,
     "valid_mod_locations": [],
-    "ammo_effects": [ "SHOT" ],
-    "flags": [ "NEVER_JAMS", "NO_RELOAD" ]
+    "ammo_effects": ["SHOT"],
+    "flags": ["NEVER_JAMS", "NO_RELOAD"]
   },
   {
     "id": "ninja_shuriken_smg",
@@ -44,15 +43,32 @@
     "range": 12,
     "damage_modifier": 80,
     "folded_volume": 19,
-    "breaks_into": [
-      { "item": "scrap", "count": [ 8, 12 ] },
-      { "item": "cable", "charges": [ 12, 40 ] },
-      { "item": "e_scrap", "count": [ 6, 20 ] },
-      { "item": "plastic_chunk", "count": [ 0, 4 ] },
-      { "item": "steel_lump", "count": [ 1, 2 ] },
-      { "item": "steel_chunk", "count": [ 1, 2 ] }
+    "breaks_into": [{
+        "item": "scrap",
+        "count": [8, 12]
+      },
+      {
+        "item": "cable",
+        "charges": [12, 40]
+      },
+      {
+        "item": "e_scrap",
+        "count": [6, 20]
+      },
+      {
+        "item": "plastic_chunk",
+        "count": [0, 4]
+      },
+      {
+        "item": "steel_lump",
+        "count": [1, 2]
+      },
+      {
+        "item": "steel_chunk",
+        "count": [1, 2]
+      }
     ],
-    "flags": [ "TURRET", "CARGO", "FOLDABLE", "BATTERY_MOUNT" ]
+    "flags": ["TURRET", "CARGO", "FOLDABLE", "BATTERY_MOUNT"]
   },
   {
     "id": "ninja_vp_tatami",
@@ -66,13 +82,24 @@
     "broken_color": "brown",
     "difficulty": 2,
     "durability": 200,
-    "breaks_into": [
-      { "item": "sheet_metal", "count": [ 1, 1 ] },
-      { "item": "straw_pile", "count": [ 5, 8 ] },
-      { "item": "rag", "count": [ 2, 4 ] },
-      { "item": "string_36", "count": [ 1, 2 ] }
+    "breaks_into": [{
+        "item": "sheet_metal",
+        "count": [1, 1]
+      },
+      {
+        "item": "straw_pile",
+        "count": [5, 8]
+      },
+      {
+        "item": "rag",
+        "count": [2, 4]
+      },
+      {
+        "item": "string_36",
+        "count": [1, 2]
+      }
     ],
-    "flags": [ "AISLE", "BED", "BOARDABLE" ]
+    "flags": ["AISLE", "BED", "BOARDABLE"]
   },
   {
     "id": "ninja_tatami_aisle",
@@ -82,7 +109,7 @@
     "weight": 4000,
     "volume": 12,
     "price": 5000,
-    "material": [ "wood", "steel" ],
+    "material": ["wood", "steel"],
     "symbol": "#",
     "color": "brown"
   },
@@ -98,12 +125,23 @@
     "broken_color": "brown",
     "difficulty": 2,
     "durability": 200,
-    "breaks_into": [
-      { "item": "sheet_metal", "count": [ 1, 1 ] },
-      { "item": "straw_pile", "count": [ 5, 8 ] },
-      { "item": "rag", "count": [ 2, 4 ] },
-      { "item": "string_36", "count": [ 1, 2 ] }
+    "breaks_into": [{
+        "item": "sheet_metal",
+        "count": [1, 1]
+      },
+      {
+        "item": "straw_pile",
+        "count": [5, 8]
+      },
+      {
+        "item": "rag",
+        "count": [2, 4]
+      },
+      {
+        "item": "string_36",
+        "count": [1, 2]
+      }
     ],
-    "flags": [ "AISLE", "BOARDABLE" ]
+    "flags": ["AISLE", "BOARDABLE"]
   }
 ]

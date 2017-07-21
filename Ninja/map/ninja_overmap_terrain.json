@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": "ninja_tower_1",
     "type": "overmap_terrain",
     "name": "Large Office Tower",
@@ -8,7 +7,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_2",
@@ -19,7 +18,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_3",
@@ -30,7 +29,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_4",
@@ -41,7 +40,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_5",
@@ -52,7 +51,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_6",
@@ -63,7 +62,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_7",
@@ -74,7 +73,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_8",
@@ -85,7 +84,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_9",
@@ -96,7 +95,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_10",
@@ -107,7 +106,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_11",
@@ -118,7 +117,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_12",
@@ -129,7 +128,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_13",
@@ -140,7 +139,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_14",
@@ -151,7 +150,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_15",
@@ -162,7 +161,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_tower_16",
@@ -173,7 +172,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "sidewalk": true,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_cabin_1",
@@ -184,7 +183,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "field",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_cabin_b1",
@@ -195,7 +194,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_nw",
@@ -206,7 +205,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_north_entrance",
@@ -217,7 +216,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_ne",
@@ -228,7 +227,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_west",
@@ -239,7 +238,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_center",
@@ -250,7 +249,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_east",
@@ -261,7 +260,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_sw",
@@ -272,7 +271,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_south",
@@ -283,7 +282,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_1f_se",
@@ -294,7 +293,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_2f_north",
@@ -305,7 +304,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_2f_center",
@@ -316,7 +315,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_2f_west",
@@ -327,7 +326,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_3f_center",
@@ -338,7 +337,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_mansion_3f_west",
@@ -349,7 +348,7 @@
     "see_cost": 5,
     "mondensity": 0,
     "extras": "build",
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   },
   {
     "id": "ninja_blaze_trailer_home",
@@ -359,6 +358,6 @@
     "color": "red",
     "see_cost": 5,
     "mondensity": 0,
-    "flags": [ "NO_ROTATE" ]
+    "flags": ["NO_ROTATE"]
   }
 ]
