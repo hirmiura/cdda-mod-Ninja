@@ -1,8 +1,8 @@
 [{
     "id": "ninja_shuriken_smg",
     "type": "GUN",
-    "name": "Shuriken thrower (smg)",
-    "description": "It is a device which modified the coil gun. You can shoot shuriken continuously. To use it should be installed in the vehicle.",
+    "name": "サブマシンガン(手裏剣)",
+    "description": "コイルガンを改造した装置です。手裏剣を連続発射できます。使用するには車両に搭載すべきでしょう。",
     "weight": 12000,
     "volume": 21,
     "price": 110000,
@@ -30,7 +30,7 @@
   {
     "id": "ninja_shuriken_smg",
     "type": "vehicle_part",
-    "name": "Automotive / Sub Machine Gun (Shuriken)",
+    "name": "車載/サブマシンガン(手裏剣)",
     "item": "ninja_shuriken_smg",
     "location": "on_roof",
     "symbol": "t",
@@ -73,7 +73,7 @@
   {
     "id": "ninja_vp_tatami",
     "type": "vehicle_part",
-    "name": "Aisle (tatami)",
+    "name": "通路(畳)",
     "item": "straw_pile",
     "location": "center",
     "symbol": "#",
@@ -104,8 +104,8 @@
   {
     "id": "ninja_tatami_aisle",
     "type": "GENERIC",
-    "name": "Aisle (tatami)",
-    "description": "Tatami is traditional Japanese flooring. It is very cool and calm. This tatami can be installed as the floor of the vehicle.",
+    "name": "通路(畳)",
+    "description": "畳は日本古来の床材です。とても涼しげで落ち着きます。この畳は車両の床として設置出来ます。",
     "weight": 4000,
     "volume": 12,
     "price": 5000,
@@ -116,7 +116,7 @@
   {
     "id": "ninja_tatami_aisle",
     "type": "vehicle_part",
-    "name": "Aisle (tatami)",
+    "name": "通路(畳)",
     "item": "ninja_tatami_aisle",
     "location": "center",
     "symbol": "#",

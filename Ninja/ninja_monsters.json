@@ -1,8 +1,8 @@
 [{
     "id": "mon_ninja_decoy",
     "type": "MONSTER",
-    "name": "Decoy doll",
-    "description": "I made shirts on trees and attached strings so that I could produce movement. It is installed on the floor.",
+    "name": "身代わり人形",
+    "description": "木にシャツを着せ、紐を付けて動きを演出出来るようにしたものです。床に設置されています。",
     "default_faction": "player",
     "species": ["ROBOT"],
     "diff": 10,
@@ -49,8 +49,8 @@
   {
     "id": "mon_ninja_afterimage",
     "type": "MONSTER",
-    "name": "After Image",
-    "description": "Goshigoshi .... This is afterimage ...!",
+    "name": "残像",
+    "description": "ゴシゴシ...。これは、残像...！",
     "default_faction": "player",
     "species": ["ROBOT"],
     "diff": 0,
@@ -78,8 +78,8 @@
   {
     "id": "mon_ninja_spring_floor",
     "type": "MONSTER",
-    "name": "Spring Floor",
-    "description": "It is a floor type defense robot. Jump up and play the intruder. \n Despite being devised as defense method not to kill \n the user who brought a cruel trap to the destroyed place was banned and manufacturing was banned as being inhumane.",
+    "name": "スプリングフロア",
+    "description": "床型の防衛用ロボットです。跳ね上がって侵入者を弾き飛ばします。\"殺害しない防衛方法\"として考案されたにも関わらず、飛ばした先に残虐な罠を仕掛けるユーザーが後を絶たず、非人道的であるとして製造が禁止されました。",
     "default_faction": "defense_bot",
     "species": ["ROBOT"],
     "diff": 10,

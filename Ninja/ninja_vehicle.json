@@ -168,7 +168,7 @@
   {
     "id": "ninja_vehicle_yakata_car",
     "type": "vehicle",
-    "name": "å±‹å½¢è£…ç”²è»Š",
+    "name": "屋形装甲車",
     "parts": [{
         "x": -5,
         "y": -1,
@@ -1125,7 +1125,7 @@
   {
     "id": "ninja_vehicle_house_trailer",
     "type": "vehicle",
-    "name": "Ignite 'Blaze'house trailer",
+    "name": "Ignite 'Blaze'のトレーラーハウス",
     "parts": [{
         "x": 0,
         "y": 0,

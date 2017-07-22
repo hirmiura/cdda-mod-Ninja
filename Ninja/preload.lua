@@ -4,7 +4,7 @@ function iuse_ninja_afterimage(item, active)
 	local CHARGES_PER_USE = 25
 
 	if item.charges < CHARGES_PER_USE then
-		game.add_msg("Power is insufficient...")
+		game.add_msg("電力が足りない...")
 		return
 	end
 
@@ -27,9 +27,9 @@ function iuse_ninja_afterimage(item, active)
 	end
 
 	if num_of_image > 0 then
-		game.add_msg("I copied the afterimage on the screen of the fog.")
+		game.add_msg("霧のスクリーンに残像を写しました。")
 	else
-		game.add_msg("I could not image the afterimage.")
+		game.add_msg("残像が写せませんでした。")
 	end
 
 	item.charges = math.max(item.charges - CHARGES_PER_USE, 0)
@@ -44,13 +44,13 @@ function iuse_ninja_typhoon(item, active)
 	local THRESHOLD_DESTRUCTION = 600	-- t_wall.bash_str = 210, t_wall_metal.bash_str = 600
 
 	local RUBBLES = {}
-	RUBBLES[0] = "A mountain of rubble"
-	RUBBLES[1] = "A mountain of rubble (rock)"
-	RUBBLES[2] = "Wreck (metal)"
-	RUBBLES[3] = "A mountain of ashes"
+	RUBBLES[0] = "瓦礫の山"
+	RUBBLES[1] = "瓦礫の山(岩)"
+	RUBBLES[2] = "残骸(金属)"
+	RUBBLES[3] = "灰の山"
 
 	if item.charges < CHARGES_PER_USE then
-		game.add_msg("Power is insufficient...")
+		game.add_msg("電力が足りない...")
 		return
 	end
 

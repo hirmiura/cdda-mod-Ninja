@@ -1,12 +1,12 @@
 [{
     "id": "ammo_type_ninja_shuriken",
-    "name": "shuriken",
+    "name": "手裏剣",
     "default": "ninja_shuriken",
     "type": "ammunition_type"
   },
   {
     "id": "ammo_type_ninja_jet_fuel",
-    "name": "Ninja jet fuel",
+    "name": "ロケット燃料",
     "default": "chem_rocket_fuel",
     "type": "ammunition_type"
   }

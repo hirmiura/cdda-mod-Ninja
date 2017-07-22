@@ -331,7 +331,7 @@
   {
     "id": "ninja_mansion_3f_center",
     "type": "overmap_terrain",
-    "name": "castle tower",
+    "name": "天守閣",
     "sym": 77,
     "color": "light_green",
     "see_cost": 5,
@@ -342,7 +342,7 @@
   {
     "id": "ninja_mansion_3f_west",
     "type": "overmap_terrain",
-    "name": "Nishinomaru Treasury",
+    "name": "西の丸・宝物庫",
     "sym": 77,
     "color": "yellow",
     "see_cost": 5,
@@ -353,7 +353,7 @@
   {
     "id": "ninja_blaze_trailer_home",
     "type": "overmap_terrain",
-    "name": "Ignite 'Blaze' Trailer Home",
+    "name": "Ignite 'Blaze'のトレーラーハウス",
     "sym": 38,
     "color": "red",
     "see_cost": 5,

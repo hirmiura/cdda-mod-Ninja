@@ -13,7 +13,7 @@
 }, {
   "id": "tec_ninja_ninjutsu_slay",
   "type": "technique",
-  "name": "Assassination",
+  "name": "暗殺",
   "req_buffs": [
     "buff_ninja_ninjutsu_as_the_wind",
     "buff_ninja_ninjutsu_as_the_forest",
@@ -26,8 +26,8 @@
   "crit_tec": true,
   "grab_break": true,
   "messages": [
-    "A merciless blow from the back to %s",
-    "<npcname> gets a merciless blow"
+    "背後からの無慈悲な一撃が%sに",
+    "<npcname>の背後からの無慈悲な一撃が%sに"
   ],
   "mult_bonuses": [
     ["damage", "cut", "dex", 1.0],
@@ -36,7 +36,7 @@
 }, {
   "id": "tec_ninja_ninjutsu_foresight",
   "type": "technique",
-  "name": "Abandonment",
+  "name": "見切り",
   "req_buffs": [
     "buff_ninja_ninjutsu_as_the_wind",
     "buff_ninja_ninjutsu_as_the_forest",
@@ -50,8 +50,8 @@
   "grab_break": true,
   "down_dur": 2,
   "messages": [
-    "%s dodged by abandonment",
-    "<npcname>%s dodged by abandonment"
+    "%sの動きを見切って躱しました。",
+    "<npcname>は%sの動きを見切って躱しました。"
   ],
   "mult_bonuses": [
     ["movecost", 0.0],
@@ -65,13 +65,13 @@
   "id": "style_ninjutsu",
   "type": "martial_art",
   "name": "Ninjutsu",
-  "description": "Ninjutsu is a traditional art of combining martial arts and tactics used by ninja from the Kamakura period to the Edo period. We focus on quick and accurate covert attacks. It makes the superhuman battle possible by using the behavior principle of Sun Tzu Feng Shima Volcano.",
+  "description": "忍術は鎌倉時代から江戸時代に忍者が用いた、武術と戦術が合わさった伝統の秘術です。迅速かつ的確な隠密攻撃に焦点を当てています。孫子の\"風林火山\"を行動原理とし、超人的な戦闘を可能にします。",
   "arm_block": 3,
   "leg_block": 99,
   "static_buffs": [{
     "id": "buff_ninja_ninjutsu_as_the_forest",
-    "name": "Ninjitsu (Forest)",
-    "description": "Triggering condition: \nAutomatic.\nUsing melee attacks does not make noise.",
+    "name": "忍術(林)",
+    "description": "発動条件:自動\n近接攻撃の際に音を立てない\n\"風林火山\"成立で見切りと暗殺攻撃が可能",
     "min_melee": 1,
     "unarmed_allowed": true,
     "melee_allowed": false,
@@ -81,8 +81,8 @@
   }],
   "ondodge_buffs": [{
     "id": "buff_ninja_ninjutsu_as_the_wind",
-    "name": "Ninjitsu (Wind)",
-    "description": "Activation condition: Avoid attack +1 ",
+    "name": "忍術(風)",
+    "description": "発動条件:攻撃を回避\n回避スキル +1 / 感覚に応じて速度上昇\n\"風林火山\"成立で見切りと暗殺攻撃が可能",
     "min_melee": 2,
     "unarmed_allowed": true,
     "melee_allowed": false,
@@ -95,8 +95,8 @@
   }],
   "onhit_buffs": [{
     "id": "buff_ninja_ninjutsu_as_the_fire",
-    "name": "Ninjitsu (Fire)",
-    "description": "Activation condition: Attack hits \n Depending on deftly bonus to hit rate and damage ",
+    "name": "忍術(火)",
+    "description": "発動条件:攻撃がヒット\n器用に応じて命中率とダメージにボーナス\n\"風林火山\"成立で見切りと暗殺攻撃が可能",
     "min_melee": 3,
     "unarmed_allowed": true,
     "melee_allowed": false,
@@ -111,7 +111,7 @@
   }],
   "onblock_buffs": [{
     "id": "buff_ninja_ninjutsu_as_the_mountain",
-    "name": "Ninjitsu (Mountain)",
+    "name": "忍術(山)",
     "description": "発動条件:攻撃をブロック\n投げ技を無効化 / 筋力に応じて防御ボーナス\n\"風林火山\"成立で見切りと暗殺攻撃が可能",
     "min_melee": 4,
     "unarmed_allowed": true,

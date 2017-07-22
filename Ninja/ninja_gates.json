@@ -5,10 +5,10 @@
   "floor": "t_ninja_secret_rock_floor",
   "walls": ["t_ninja_secret_wall"],
   "messages": {
-    "pull": "Opens ninja wall",
-    "open": "Open ninja wall",
-    "close": "closed ninja wall",
-    "fail": "You fail"
+    "pull": "怪しげな隠しハンドルを恐る恐る回しました。",
+    "open": "秘密の通路が現れました。",
+    "close": "通路が閉ざされました。",
+    "fail": "何も起きない…"
   },
   "moves": 500,
   "bashing_damage": 40
@@ -19,10 +19,10 @@
   "floor": "t_ninja_secret_floor",
   "walls": ["t_ninja_secret_wall_metal"],
   "messages": {
-    "pull": "Opens ninja wall",
-    "open": "Open ninja wall",
-    "close": "closed ninja wall",
-    "fail": "You fail"
+    "pull": "怪しげな隠しハンドルを恐る恐る回しました。",
+    "open": "秘密の通路が現れました。",
+    "close": "通路が閉ざされました。",
+    "fail": "何も起きない…"
   },
   "moves": 500,
   "bashing_damage": 40
@@ -33,10 +33,10 @@
   "floor": "t_ninja_secret_floor",
   "walls": ["t_ninja_secret_floor"],
   "messages": {
-    "pull": "Opens ninja wall",
-    "open": "Open ninja wall",
-    "close": "closed ninja wall",
-    "fail": "You fail"
+    "pull": "怪しげな隠しハンドルを恐る恐る回しました。",
+    "open": "秘密の通路が現れました。",
+    "close": "通路は消えるようにどこかへ格納されました。",
+    "fail": "何も起きない…"
   },
   "moves": 500,
   "bashing_damage": 40
@@ -47,10 +47,10 @@
   "floor": "t_ninja_secret_floor",
   "walls": ["t_ninja_secret_floor"],
   "messages": {
-    "pull": "Opens ninja wall",
-    "open": "Open ninja wall",
-    "close": "closed ninja wall",
-    "fail": "You fail"
+    "pull": "怪しげな隠しハンドルを恐る恐る回しました。",
+    "open": "秘密の通路が現れました。",
+    "close": "通路は水没しました。",
+    "fail": "何も起きない…"
   },
   "moves": 500,
   "bashing_damage": 40

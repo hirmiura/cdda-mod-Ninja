@@ -1,7 +1,7 @@
 [{
     "id": "t_ninja_secret_door_c",
     "type": "terrain",
-    "name": "wall",
+    "name": "壁",
     "symbol": "LINE_OXOX",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -35,7 +35,7 @@
   {
     "id": "t_ninja_secret_door_d",
     "type": "terrain",
-    "name": "Damaged hidden door (wall)",
+    "name": "損傷した隠し扉(壁)",
     "symbol": "&",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -68,7 +68,7 @@
   {
     "id": "t_ninja_secret_door_o",
     "type": "terrain",
-    "name": "Open hidden door (wall)",
+    "name": "開いた隠し扉(壁)",
     "symbol": "'",
     "color": ["ltgray"],
     "move_cost": 2,
@@ -121,7 +121,7 @@
   {
     "id": "t_ninja_secret_door_metal_c",
     "type": "terrain",
-    "name": "wall(metal)",
+    "name": "壁(金属)",
     "symbol": "LINE_OXOX",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -152,7 +152,7 @@
   {
     "id": "t_ninja_secret_door_metal_d",
     "type": "terrain",
-    "name": "Damaged secret door (metal)",
+    "name": "壊れた隠し扉(金属)",
     "symbol": "&",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -182,7 +182,7 @@
   {
     "id": "t_ninja_secret_door_metal_o",
     "type": "terrain",
-    "name": "Open secret door (metal)",
+    "name": "開いた隠し扉(金属)",
     "symbol": "'",
     "color": ["ltgray"],
     "move_cost": 2,
@@ -229,7 +229,7 @@
   {
     "id": "t_ninja_secret_gate_control",
     "type": "terrain",
-    "name": "wall",
+    "name": "壁",
     "symbol": "LINE_OXOX",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -263,7 +263,7 @@
   {
     "id": "t_ninja_secret_wall",
     "type": "terrain",
-    "name": "wall",
+    "name": "壁",
     "symbol": "LINE_OXOX",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -296,7 +296,7 @@
   {
     "id": "t_ninja_secret_rock_floor",
     "type": "terrain",
-    "name": "Bed (rock)",
+    "name": "床(岩石)",
     "symbol": ".",
     "color": ["ltgray"],
     "move_cost": 2,
@@ -313,7 +313,7 @@
   {
     "id": "t_ninja_secret_gate_control_metal",
     "type": "terrain",
-    "name": "Wall (metal)",
+    "name": "壁(金属)",
     "symbol": "LINE_OXOX",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -344,7 +344,7 @@
   {
     "id": "t_ninja_secret_wall_metal",
     "type": "terrain",
-    "name": "Wall (metal)",
+    "name": "壁(金属)",
     "symbol": "LINE_OXOX",
     "color": ["ltgray"],
     "move_cost": 0,
@@ -374,7 +374,7 @@
   {
     "id": "t_ninja_secret_floor",
     "type": "terrain",
-    "name": "floor",
+    "name": "床",
     "symbol": ".",
     "color": ["ltgray"],
     "move_cost": 2,
@@ -391,7 +391,7 @@
   {
     "id": "t_ninja_secret_gate_control_air",
     "type": "terrain",
-    "name": "bed",
+    "name": "床",
     "symbol": ".",
     "color": ["ltgray"],
     "move_cost": 2,
@@ -409,7 +409,7 @@
   {
     "id": "t_ninja_secret_gate_control_water",
     "type": "terrain",
-    "name": "wall",
+    "name": "壁",
     "symbol": "LINE_OXOX",
     "color": ["ltgray"],
     "move_cost": 0,
