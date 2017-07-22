@@ -486,7 +486,7 @@
       "msg": "ジェットパックを動かしました。",
       "active": true,
       "need_charges": 1,
-      "need_charges_msg": "ジェットパックを動かすにはロケット燃料が必要です。"
+      "need_charges_msg": "ジェットパックを動かすにはロケット燃料が必要です。",
       "type": "transform"
     },
     "flags": ["STURDY", "RAINPROOF", "BELTED", "FANCY"]
